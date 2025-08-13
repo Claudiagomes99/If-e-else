@@ -5,7 +5,9 @@ Código:
 Funcionando:
 <img width="946" height="647" alt="image" src="https://github.com/user-attachments/assets/6b32e1e5-3b6e-42dd-bf16-463e567ad490" />
 <img width="943" height="651" alt="image" src="https://github.com/user-attachments/assets/8f2ad0a9-ab7b-4a84-a629-6df1a1d890c1" />
-<img width="943" height="651" alt="image" src="https://github.com/user-attachments/assets/fb5003ac-60bf-4a3b-b49e-9d899bcb215c" />
+<img width="903" height="449" alt="image" src="https://github.com/user-attachments/assets/022aa5b1-d35d-4b4f-8691-0feb5393a582" />
+<img width="948" height="650" alt="image" src="https://github.com/user-attachments/assets/74290224-84a7-4135-a111-ebdf3469dce7" />
+
 
 Para o código foi utilizado java swing para a criação das janelas de entrada e saída dos dados.
 
